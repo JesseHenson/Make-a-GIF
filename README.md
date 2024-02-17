@@ -12,6 +12,7 @@ Welcome to GIF Creator
 - Chromadb as a vectorstore and retriever
 - OpenAI as an embedding agent and LLM
 
+![Alt Text](export.gif)
 
 
 ### For more of my work see [My Portfolio](https://generative-ai-portfolio-daukgnhrbwu5cugphlvjmm.streamlit.app/)
